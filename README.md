@@ -2,7 +2,9 @@
 
 * I created a Pokemon API card website,
   This site has 194 pages and each page     
-  has 20 Pokemons.
+  has 20 Pokemons. 
+
+  (Fully Responsive)
  
   (Total Pokemon :  3880)
 
