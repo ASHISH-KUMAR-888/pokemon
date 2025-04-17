@@ -13,7 +13,7 @@
   some background effect and hover effect
   on Pokemons.
 
-* I used Tailwind Css and axios in this 
+* I used Tailwind CSS and Axios in this 
   project.
 
 
